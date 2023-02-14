@@ -1,11 +1,11 @@
 {
     "id": "zeemajora.terrain_surface.locomotion_grassbr",
     "authors": ["Simon Foster", "ZeeMajora"],
-    "version": "1.0",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
         "price": 150,
-        "mapColours": [73, 108],
+        "mapColours": [26, 26],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },

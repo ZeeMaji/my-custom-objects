@@ -1,11 +1,11 @@
 {
     "id": "zeemajora.terrain_surface.locomotion_rock2",
     "authors": ["Simon Foster", "ZeeMajora"],
-    "version": "1.0",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
         "price": 120,
-        "mapColours": [40, 40],
+        "mapColours": [220, 220],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },

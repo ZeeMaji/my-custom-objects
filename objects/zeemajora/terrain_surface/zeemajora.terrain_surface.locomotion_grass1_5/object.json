@@ -1,11 +1,11 @@
 {
     "id": "zeemajora.terrain_surface.locomotion_grass1_5",
     "authors": ["Simon Foster", "ZeeMajora"],
-    "version": "1.0",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
         "price": 200,
-        "mapColours": [73, 108],
+        "mapColours": [84, 84],
         "smoothWithSelf": true,
         "smoothWithOther": true
     },
@@ -81,7 +81,7 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Dull Grass (Growth Level 5)"
+            "en-GB": "Dull Grass"
         }
     }
 }
