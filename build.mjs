@@ -139,6 +139,10 @@ async function reprocessObject(obj) {
 
     // Clean up
     await rm(path.join(cwd, 'images'));
+    await rm(path.join(cwd, '0special'));
+    await rm(path.join(cwd, '1normal'));
+    await rm(path.join(cwd, '2grid'));
+    await rm(path.join(cwd, '3underground'));
     const files = await getContents(cwd, {
         includeFiles: true,
         useFullPath: true
