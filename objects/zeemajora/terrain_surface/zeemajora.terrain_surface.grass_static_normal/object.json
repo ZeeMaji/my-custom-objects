@@ -1,0 +1,22 @@
+{
+    "id": "zeemajora.terrain_surface.grass_static_normal",
+    "authors": ["ZeeMajora", "Simon Foster"],
+    "version": "1.0",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 300,
+        "mapColours": [73, 73],
+        "smoothWithSelf": true,
+        "smoothWithOther": true
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$G1[28959..28964]",
+        "$G1[1915..1971]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grass (Static, Normal)"
+        }
+    }
+}

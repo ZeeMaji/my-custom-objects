@@ -1,0 +1,32 @@
+{
+    "id": "zeemajora.terrain_surface.grass_static_overgrown_2",
+    "authors": ["ZeeMajora", "Simon Foster"],
+    "version": "1.0",
+    "objectType": "terrain_surface",
+    "properties": {
+        "price": 150,
+        "mapColours": [73, 73],
+        "smoothWithSelf": true,
+        "smoothWithOther": true,
+        "special": [
+            { "variation": 1, "index": 3 },
+            { "variation": 1, "grid": true, "index": 4 },
+            { "variation": 2, "index": 5 },
+            { "variation": 2, "grid": true, "index": 6 },
+            { "variation": 3, "index": 7 },
+            { "variation": 3, "grid": true, "index": 8 }
+        ]
+    },
+    "images": [
+        { "path": "icon.png", "format": "raw", "x": 2, "y": 2 },
+        "$G1[28959..28964]",
+        "$G1[2891..2928]",
+        "$G1[1953..1971]",
+        "$G1[2929..3042]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grass (Static, Overgrown 2)"
+        }
+    }
+}
