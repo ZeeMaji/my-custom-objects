@@ -1,7 +1,7 @@
 {
     "id": "zeemajora.terrain_surface.poke_tarmac_green",
     "authors": ["Poke", "ZeeMajora"],
-    "version": "1.0",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,

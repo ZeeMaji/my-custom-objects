@@ -1,7 +1,7 @@
 {
     "id": "zeemajora.terrain_surface.poke_tarmac_ash",
     "authors": ["Poke", "ZeeMajora"],
-    "version": "1.0",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
@@ -10,7 +10,7 @@
     "images": [
         { "path": "0special/icon.png", "format": "raw", "x": 2, "y": 2 },
         
-        { "path": "1normal/00.png", "x": -32, "y": 0 },
+        "$RCT2:OBJDATA/PATHASH.DAT[50]",
         { "path": "1normal/01.png", "x": -32, "y": -1 },
         { "path": "1normal/02.png", "x": -32, "y": 0 },
         { "path": "1normal/03.png", "x": -32, "y": -1 },

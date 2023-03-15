@@ -1,7 +1,7 @@
 {
     "id": "zeemajora.terrain_surface.poke_tarmac_fixed_fullblend",
     "authors": ["Poke", "ZeeMajora"],
-    "version": "1.0",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
@@ -19,7 +19,7 @@
 		{ "path": "0special/s5.png", "format": "raw", "x": 0, "y": 0 },
 		{ "path": "0special/s6.png", "format": "raw", "x": 0, "y": 0 },
         
-        { "path": "1normal/00.png", "x": -32, "y": 0 },
+        "$RCT2:OBJDATA/TARMAC.DAT[50]",
         { "path": "1normal/01.png", "x": -32, "y": -1 },
         { "path": "1normal/02.png", "x": -32, "y": 0 },
         { "path": "1normal/03.png", "x": -32, "y": -1 },
