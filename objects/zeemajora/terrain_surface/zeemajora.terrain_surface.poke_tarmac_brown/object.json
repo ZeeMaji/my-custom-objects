@@ -1,6 +1,6 @@
 {
     "id": "zeemajora.terrain_surface.poke_tarmac_brown",
-    "authors": ["Poke", "ZeeMajora"],
+    "authors": ["Poke", "ZeeMajora", "Simon Foster"],
     "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
