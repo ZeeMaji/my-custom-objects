@@ -1,7 +1,7 @@
 {
     "id": "zeemajora.terrain_surface.poke_tarmac_dirt_fullblend",
-    "authors": ["Poke", "ZeeMajora", "Simon Foster"],
-    "version": "1.1",
+    "authors": ["Poke", "ZeeMaji", "Simon Foster"],
+    "version": "1.2",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
