@@ -1,7 +1,7 @@
 {
     "id": "zeemajora.terrain_surface.grass_static_mowed_2",
-    "authors": ["ZeeMajora", "Simon Foster"],
-    "version": "1.1",
+    "authors": ["ZeeMaji", "Simon Foster"],
+    "version": "1.2",
     "objectType": "terrain_surface",
     "properties": {
         "price": 500,
