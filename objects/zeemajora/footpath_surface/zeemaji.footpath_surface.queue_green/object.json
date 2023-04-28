@@ -1,0 +1,26 @@
+{
+    "id": "zeemaji.footpath_surface.queue_green",
+    "authors": ["ZeeMaji", "Simon Foster"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        { "path": "images/preview.png", "x": 1, "y": 1 },
+        "$CSG[43331..43346]",
+        { "path": "images/0.png", "x": -28, "y": -14 },
+        { "path": "images/1.png", "x": -26, "y": 1 },
+        { "path": "images/2.png", "x": -30, "y": 1 },
+        { "path": "images/3.png", "x": -27, "y": -14 }
+    ],
+    "noCsgImages": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/TARMACG.DAT[51..70]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Green Queue (Stairs)"
+        }
+    }
+}
