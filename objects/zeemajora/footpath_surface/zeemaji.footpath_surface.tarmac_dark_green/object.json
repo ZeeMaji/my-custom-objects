@@ -1,0 +1,23 @@
+{
+    "id": "zeemaji.footpath_surface.tarmac_dark_green",
+    "authors": ["ZeeMaji", "Simon Foster"],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {
+        "noSlopeRailings": true
+    },
+    "images": [
+        { "path": "images/preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/TARMACG.DAT[0..15]",
+        { "path": "images/0.png", "x": -28, "y": -14 },
+        { "path": "images/1.png", "x": -28, "y": 1 },
+        { "path": "images/2.png", "x": -28, "y": 1 },
+        { "path": "images/3.png", "x": -28, "y": -14 },
+        "$RCT2:OBJDATA/TARMACG.DAT[20..50]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dark Green Tarmac Footpath (Sloped)"
+        }
+    }
+}
