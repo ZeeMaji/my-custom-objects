@@ -13,7 +13,7 @@
         "$CSG[43697..43727]"
     ],
     "noCsgImages": [
-        { "path": "preview.png", "x": 1, "y": 1 },
+        { "path": "images/preview.png", "x": 1, "y": 1 },
         "$RCT2:OBJDATA/TARMACG.DAT[0..50]"
     ],
     "strings": {
