@@ -1,7 +1,7 @@
 {
     "id": "zeemajora.terrain_surface.locomotion_rock2",
     "authors": ["Simon Foster", "ZeeMaji"],
-    "version": "1.3",
+    "version": "1.4",
     "objectType": "terrain_surface",
     "properties": {
         "price": 120,
