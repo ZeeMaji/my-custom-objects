@@ -1,23 +1,14 @@
 {
-    "id": "zeemajora.terrain_surface.locomotion_grassbr",
+    "id": "zeemajora.terrain_surface.locomotion_foodproc",
     "authors": ["Simon Foster", "ZeeMaji"],
-    "version": "1.4",
+    "version": "1.1",
     "objectType": "terrain_surface",
     "properties": {
-        "price": 150,
-        "mapColours": [26, 26],
-        "smoothWithSelf": true,
-        "smoothWithOther": true
+        "price": 120,
+        "mapColours": [221, 221]
     },
     "images": [
         { "path": "0special/icon.png", "format": "raw", "x": 2, "y": 2 },
-        
-		{ "path": "0special/s1.png", "format": "raw", "x": 0, "y": 0 },
-		{ "path": "0special/s2.png", "format": "raw", "x": 0, "y": 0 },
-		{ "path": "0special/s3.png", "format": "raw", "x": 0, "y": 0 },
-		{ "path": "0special/s4.png", "format": "raw", "x": 0, "y": 0 },
-		{ "path": "0special/s5.png", "format": "raw", "x": 0, "y": 0 },
-		{ "path": "0special/s6.png", "format": "raw", "x": 0, "y": 0 },
         
         { "path": "1normal/00.png", "x": -32, "y": 0 },
         { "path": "1normal/01.png", "x": -32, "y": -1 },
@@ -81,7 +72,7 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Dry Grass"
+            "en-GB": "Concrete"
         }
     }
 }
