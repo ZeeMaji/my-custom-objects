@@ -1,0 +1,40 @@
+{
+    "id": "zeemaji.footpath_surface.queue_orange_stairs",
+    "authors": [
+        "ZeeMaji",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "footpath_surface",
+    "properties": {
+        "isQueue": true
+    },
+    "images": [
+        { "path": "images/icon.png", "x": 1, "y": 1 },
+        { "path": "images/00.png", "x": -24, "y": 4 },
+        { "path": "images/01.png", "x": -24, "y": 2 },
+        { "path": "images/02.png", "x": -24, "y": 4 },
+        { "path": "images/03.png", "x": -24, "y": 2 },
+        { "path": "images/04.png", "x": -28, "y": 4 },
+        { "path": "images/05.png", "x": -28, "y": 2 },
+        { "path": "images/06.png", "x": -28, "y": 4 },
+        "",
+        { "path": "images/08.png", "x": -28, "y": 2 },
+        { "path": "images/09.png", "x": -28, "y": 2 },
+        { "path": "images/10.png", "x": -28, "y": 2 },
+        "",
+        { "path": "images/12.png", "x": -28, "y": 2 },
+        "",
+        "",
+        "",
+        { "path": "images/16.png", "x": -28, "y": -14 },
+        { "path": "images/17.png", "x": -26, "y": 1 },
+        { "path": "images/18.png", "x": -30, "y": 1 },
+        { "path": "images/19.png", "x": -27, "y": -14 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Orange Queue (Stairs)"
+        }
+    }
+}
