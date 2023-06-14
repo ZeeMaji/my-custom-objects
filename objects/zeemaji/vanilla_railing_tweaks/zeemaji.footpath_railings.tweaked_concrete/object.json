@@ -1,0 +1,27 @@
+{
+    "id": "zeemaji.footpath_railings.tweaked_concrete",
+    "authors": [
+        "ZeeMaji",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/TARMACB.DAT[73..86]",
+        "$RCT2:OBJDATA/TARMACB.DAT[73..86]",
+        "$RCT2:OBJDATA/TARMACB.DAT[101..164]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Concrete Railings (Tweaked, Grey-Brown)",
+            "en-US": "Concrete Railings (Tweaked, Gray-Brown)"
+        }
+    }
+}

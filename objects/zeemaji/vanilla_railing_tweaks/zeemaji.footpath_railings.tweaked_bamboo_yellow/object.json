@@ -1,0 +1,36 @@
+{
+    "id": "zeemaji.footpath_railings.tweaked_bamboo_yellow",
+    "authors": [
+        "ZeeMaji",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0,
+        "colour": "yellow"
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$CSG[44822..44835]",
+        "$CSG[44822..44835]",
+        "$RCT2:OBJDATA/PATHDIRT.DAT[101..108]",
+        "$G1[3445..3464]",
+        "$G1[3658..3674]"
+    ],
+    "noCsgImages": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/PATHDIRT.DAT[73..86]",
+        "$RCT2:OBJDATA/PATHDIRT.DAT[73..86]",
+        "$RCT2:OBJDATA/PATHDIRT.DAT[101..108]",
+        "$G1[3445..3464]",
+        "$G1[3658..3674]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Railings (Tweaked, Yellow)"
+        }
+    }
+}

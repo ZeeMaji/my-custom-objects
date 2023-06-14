@@ -1,0 +1,52 @@
+{
+    "id": "zeemaji.footpath_railings.tweaked_concrete_green",
+    "authors": [
+        "ZeeMaji",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasSupportImages": true,
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": [
+        { "path": "images/preview.png", "x": 1, "y": 1 },
+        { "path": "images/00.png", "x": 0, "y": -10 },
+        { "path": "images/01.png", "x": -32, "y": -10 },
+        { "path": "images/02.png", "x": 0, "y": -10 },
+        { "path": "images/03.png", "x": -28, "y": -10 },
+        { "path": "images/04.png", "x": 4, "y": -8 },
+        { "path": "images/05.png", "x": -32, "y": -8 },
+        { "path": "images/06.png", "x": 0, "y": -26 },
+        { "path": "images/07.png", "x": 0, "y": -10 },
+        { "path": "images/08.png", "x": -32, "y": -26 },
+        { "path": "images/09.png", "x": -32, "y": -10 },
+        { "path": "images/10.png", "x": -4, "y": -8 },
+        { "path": "images/11.png", "x": 23, "y": 4 },
+        { "path": "images/12.png", "x": -4, "y": 18 },
+        { "path": "images/13.png", "x": -28, "y": 4 },
+        { "path": "images/00.png", "x": 0, "y": -10 },
+        { "path": "images/01.png", "x": -32, "y": -10 },
+        { "path": "images/02.png", "x": 0, "y": -10 },
+        { "path": "images/03.png", "x": -28, "y": -10 },
+        { "path": "images/04.png", "x": 4, "y": -8 },
+        { "path": "images/05.png", "x": -32, "y": -8 },
+        { "path": "images/06.png", "x": 0, "y": -26 },
+        { "path": "images/07.png", "x": 0, "y": -10 },
+        { "path": "images/08.png", "x": -32, "y": -26 },
+        { "path": "images/09.png", "x": -32, "y": -10 },
+        { "path": "images/10.png", "x": -4, "y": -8 },
+        { "path": "images/11.png", "x": 23, "y": 4 },
+        { "path": "images/12.png", "x": -4, "y": 18 },
+        { "path": "images/13.png", "x": -28, "y": 4 },
+        "$RCT2:OBJDATA/TARMACG.DAT[101..164]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Concrete Railings (Tweaked, Dark Green)"
+        }
+    }
+}
