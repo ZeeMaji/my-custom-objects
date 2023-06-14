@@ -1,0 +1,28 @@
+{
+    "id": "zeemaji.footpath_railings.tweaked_space_grey",
+    "authors": [
+        "ZeeMaji",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0,
+        "colour": "grey"
+    },
+    "images": [
+        { "path": "preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/PATHSPCE.DAT[87..100]",
+        "$RCT2:OBJDATA/PATHSPCE.DAT[87..108]",
+        "$G1[3425..3444]",
+        "$G1[3124..3140]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Space Style Railings (Tweaked, Grey)",
+            "en-US": "Space Style Railings (Tweaked, Gray)"
+        }
+    }
+}

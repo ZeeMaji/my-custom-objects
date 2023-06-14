@@ -1,0 +1,45 @@
+{
+    "id": "zeemaji.footpath_railings.tweaked_bamboo_black",
+    "authors": [
+        "ZeeMaji",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "footpath_railings",
+    "properties": {
+        "hasElevatedPathImages": true,
+        "supportType": "pole",
+        "scrollingMode": 0
+    },
+    "images": [
+        { "path": "images/preview.png", "x": 1, "y": 1 },
+        "$RCT2:OBJDATA/PATHASH.DAT[73..86]",
+        "$RCT2:OBJDATA/PATHASH.DAT[73..86]",
+        "$RCT2:OBJDATA/PATHASH.DAT[101..109]",
+        { "path": "images/37.png", "x": -24, "y": 2 },
+        { "path": "images/38.png", "x": -24, "y": 4 },
+        { "path": "images/39.png", "x": -25, "y": 2 },
+        { "path": "images/40.png", "x": -28, "y": 4 },
+        { "path": "images/41.png", "x": -28, "y": 2 },
+        { "path": "images/42.png", "x": -28, "y": 4 },
+        { "path": "images/43.png", "x": -28, "y": 2 },
+        { "path": "images/44.png", "x": -29, "y": 2 },
+        { "path": "images/45.png", "x": -28, "y": 2 },
+        { "path": "images/46.png", "x": -28, "y": 2 },
+        { "path": "images/47.png", "x": -29, "y": 2 },
+        { "path": "images/48.png", "x": -28, "y": 2 },
+        { "path": "images/49.png", "x": -28, "y": 2 },
+        { "path": "images/50.png", "x": -29, "y": 2 },
+        { "path": "images/51.png", "x": -28, "y": 2 },
+        { "path": "images/52.png", "x": -29, "y": -14 },
+        { "path": "images/53.png", "x": -29, "y": 1 },
+        { "path": "images/54.png", "x": -28, "y": 1 },
+        { "path": "images/55.png", "x": -28, "y": -14 },
+        "$RCT2:OBJDATA/PATHASH.DAT[129..164]"
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Railings (Tweaked, Black)"
+        }
+    }
+}
