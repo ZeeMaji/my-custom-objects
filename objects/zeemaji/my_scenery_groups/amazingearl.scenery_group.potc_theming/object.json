@@ -1,0 +1,54 @@
+{
+    "id": "amazingearl.scenery_group.potc_theming",
+    "authors": [
+        "Dan Wolfe"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "$DAT:00000001|AE-PCACT",
+            "$DAT:00000001|AE-PCBD1",
+            "$DAT:00000001|AE-PCBD2",
+            "$DAT:00000001|AE-PCBIG",
+            "$DAT:00000001|AE-PCMAY",
+            "$DAT:00000001|AE-PCMYW",
+            "$DAT:00000001|AE-PCGLD",
+            "$DAT:00000001|AE-PCPIP",
+            "$DAT:00000001|AE-PCFLK",
+            "$DAT:00000001|AE-PCRD3",
+            "$DAT:00000001|AE-PCRED",
+            "$DAT:00000001|AE-PCCAP",
+            "$DAT:00000001|AE-PCSK8",
+            "$DAT:00000001|AE-PCSK4",
+            "$DAT:00000001|AE-PCSK5",
+            "$DAT:00000001|AE-PCSK7",
+            "$DAT:00000001|AE-PCSK2",
+            "$DAT:00000001|AE-PCSK6",
+            "$DAT:00000001|AE-PCSK3",
+            "$DAT:00000001|AE-PCWC1",
+            "$DAT:00000001|AE-PCWC2",
+            "$DAT:00000001|AE-PCWC3",
+            "$DAT:00000001|AE-PCWSB",
+            "$DAT:00000001|AE-PCW4S",
+            "$DAT:00000002|AE-PCSK1",
+            "$DAT:00000002|AE-PCAUC"
+        ],
+        "priority": 40,
+        "entertainerCostumes": "pirate"
+    },
+    "images": [
+        {
+            "path": "images/0.png"
+        },
+        {
+            "path": "images/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "AE Pirates of the Caribbean Scenery"
+        }
+    }
+}
