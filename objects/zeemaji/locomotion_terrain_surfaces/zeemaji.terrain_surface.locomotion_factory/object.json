@@ -1,12 +1,11 @@
 {
     "id": "zeemaji.terrain_surface.locomotion_factory",
     "authors": ["Simon Foster", "ZeeMaji"],
-    "version": "1.1",
+    "version": "1.2",
     "objectType": "terrain_surface",
     "properties": {
         "price": 100,
         "mapColours": [16, 16],
-        "smoothWithSelf": true,
         "smoothWithOther": true
     },
     "images": [
