@@ -16,7 +16,7 @@ jobs:
     - name: Create objects.zip
       run: ./build.mjs
     - name: Upload artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: "ZeeMaji Custom Objects"
         path: artifacts/objects.zip
