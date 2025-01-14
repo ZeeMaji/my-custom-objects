@@ -1,0 +1,69 @@
+{
+    "id": "zeemaji.peep_animations.entertainer_invisible",
+    "authors": [
+        "ZeeMaji"
+    ],
+    "version": "1.0",
+    "objectType": "peep_animations",
+    "properties": {
+        "peepType": "entertainer",
+        "noRandomPlacement": true
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Invisible Entertainer"
+        }
+    },
+    "images": [
+		{ "path": "images/icon.png", "x": 0, "y": 1 },
+		
+        "",
+        "",
+        "",
+        ""
+    ],
+    "animationGroups": [
+        {
+            "scriptName": "invisible",
+            "isSlowWalking": false,
+            "animations": {
+                "walking": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "watchRide": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "hanging": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "drowning": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "joy": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                },
+                "wave2": {
+                    "offset": 1,
+                    "sequence": [
+                        0
+                    ]
+                }
+            }
+        }
+    ]
+}
